@@ -22,9 +22,6 @@ We developed the software using Java for both the application logic and graphica
 ![image](https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/fd3f22ef-c0b4-4f5d-a3dd-6fe9ad2d9324)
 
 
-
-
-
 ## Contributors
 
 - [@RB-Younes](https://github.com/RB-Younes)
