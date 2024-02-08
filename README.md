@@ -14,12 +14,14 @@ Our software addresses these challenges by enabling associations to assist more 
 We developed the software using Java for both the application logic and graphical user interface (GUI) development. PL/SQL was utilized for database management. All system diagrams, including utilisation guide, can be found in the "Rapport Projet GL2.docx" file within the repository.
 
 ## Some Screenshots
+<p align="center">
+  <img width="400"; src="https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/d72a0cad-f676-4df1-9f5f-0a85d452d23f">
+  <img width="400"; src="https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/76224337-d7f0-4808-9c72-5cab95aa6367">
+  <img width="400"; src="https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/ef23f1be-744e-45db-be27-91c243f7bbf7">
+  <img width="400"; src="https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/fd3f22ef-c0b4-4f5d-a3dd-6fe9ad2d9324">
+  <img width="400"; src="https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/2edfc339-0c7a-47e7-b6cd-584ac0d4e799">
+</p>
 
-![image](https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/d72a0cad-f676-4df1-9f5f-0a85d452d23f)
-![image](https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/76224337-d7f0-4808-9c72-5cab95aa6367)
-![image](https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/ef23f1be-744e-45db-be27-91c243f7bbf7)
-![image](https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/2edfc339-0c7a-47e7-b6cd-584ac0d4e799)
-![image](https://github.com/RB-Younes/Software-for-the-management-of-a-caretative-association/assets/108153787/fd3f22ef-c0b4-4f5d-a3dd-6fe9ad2d9324)
 
 
 ## Contributors
