@@ -24,7 +24,7 @@ We developed the software using Java for both the application logic and graphica
 
 
 
-## Contributors
-
-- [@RB-Younes](https://github.com/RB-Younes)
+## Collaborators
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
+- [@RB-Younes](https://github.com/RB-Younes)
+
